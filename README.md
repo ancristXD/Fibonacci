@@ -1,4 +1,4 @@
 # Fibonacci
 Sequência de Fibonacci
-Aprendi esse código com o usuário @pfbahury e @Gabriel-SSantos.
+Aprendi esse código com os usuário @pfbahury e @Gabriel-SSantos.
 Thank you very much! :D
